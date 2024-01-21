@@ -1,0 +1,207 @@
+country,consumption,year
+China,"7,806,000",2021
+United States,"3,979,000",2021
+India,"1,443,000",2021
+Russia,996.00,2021
+Japan,913.00,2021
+Brazil,577.00,2021
+"Korea, South",568.00,2021
+Canada,555.00,2021
+Germany,512.00,2021
+France,447.00,2021
+Saudi Arabia,329.00,2021
+Iran,302.00,2021
+Mexico,301.00,2021
+Italy,300.00,2021
+United Kingdom,287.00,2021
+Turkey,284.00,2021
+Indonesia,282.00,2021
+Taiwan,278.00,2021
+Australia,237.00,2021
+Spain,234.00,2021
+Vietnam,229.00,2021
+Thailand,203.00,2021
+South Africa,191.00,2021
+Egypt,168.00,2021
+Poland,158.00,2021
+Malaysia,151.00,2021
+Ukraine,134.00,2021
+Pakistan,132.00,2021
+Norway,131.93,2021
+Sweden,131.00,2021
+United Arab Emirates,129.00,2021
+Argentina,127.00,2021
+Netherlands,113.00,2021
+Philippines,98.00,2021
+Kazakhstan,97.00,2021
+Finland,84.00,2021
+Belgium,83.00,2021
+Chile,81.00,2021
+Bangladesh,78.00,2021
+Colombia,76.00,2021
+Venezuela,71.00,2021
+Austria,69.00,2021
+Algeria,69.00,2021
+Kuwait,65.00,2021
+Israel,63.00,2021
+Czech Republic,62.00,2021
+Switzerland,58.00,2021
+Uzbekistan,58.00,2021
+Singapore,53.00,2021
+Iraq,53.00,2021
+Greece,52.00,2021
+Peru,52.00,2021
+Romania,51.00,2021
+Portugal,48.00,2021
+Hong Kong,46.00,2021
+Qatar,45.00,2021
+Hungary,44.00,2021
+New Zealand,41.00,2021
+Belarus,41.00,2021
+Denmark,38.00,2021
+Morocco,35.00,2021
+Ireland,33.00,2021
+Oman,33.00,2021
+Serbia,31.00,2021
+Bahrain,31.00,2021
+Bulgaria,30.00,2021
+Nigeria,27.00,2021
+Ecuador,27.00,2021
+Libya,27.00,2021
+Slovakia,26.00,2021
+Azerbaijan,25.00,2021
+Jordan,20.00,2021
+Iceland,19.00,2021
+Lebanon,19.00,2021
+Ghana,18.00,2021
+Puerto Rico,17.00,2021
+Myanmar,17.00,2021
+Croatia,16.00,2021
+Tunisia,16.00,2021
+Cuba,16.00,2021
+Tajikistan,16.00,2021
+Dominican Republic,15.00,2021
+Turkmenistan,15.00,2021
+Sri Lanka,15.00,2021
+Angola,15.00,2021
+Slovenia,14.00,2021
+Zambia,14.00,2021
+Uruguay,14.00,2021
+Syria,13.00,2021
+Mozambique,13.00,2021
+Sudan,13.00,2021
+Georgia,13.00,2021
+Guatemala,13.00,2021
+"Korea, North",12.00,2021
+Kyrgyzstan,12.00,2021
+Lithuania,12.00,2021
+Bosnia and Herzegovina,11.00,2021
+Costa Rica,11.00,2021
+Cambodia,11.00,2021
+Bolivia,9.70,2021
+Moldova,9.70,2021
+Panama,9.50,2021
+Ethiopia,9.50,2021
+Kenya,9.10,2021
+"Congo, Democratic Republic of the",8.90,2021
+Estonia,8.80,2021
+Trinidad and Tobago,8.30,2021
+Zimbabwe,8.30,2021
+Honduras,8.20,2021
+Ivory Coast,8.00,2021
+Mongolia,7.80,2021
+Paraguay,7.70,2021
+Albania,7.40,2021
+Tanzania,7.20,2021
+Nepal,7.20,2021
+Latvia,6.90,2021
+North Macedonia,6.70,2021
+Luxembourg,6.50,2021
+El Salvador,6.40,2021
+Palestine,6.20,2021
+Cameroon,6.10,2021
+Armenia,6.10,2021
+Laos,6.10,2021
+Macau,5.60,2021
+Kosovo,5.60,2021
+Afghanistan,5.50,2021
+Senegal,5.30,2021
+Nicaragua,4.90,2021
+Cyprus,4.70,2021
+Papua New Guinea,4.60,2021
+Brunei,4.20,2021
+Botswana,3.40,2021
+Namibia,3.40,2021
+Bhutan,3.30,2021
+New Caledonia,3.30,2021
+Jamaica,3.20,2021
+Uganda,3.10,2021
+Yemen,2.90,2021
+Montenegro,2.90,2021
+Mauritius,2.70,2021
+Mali,2.70,2021
+Burkina Faso,2.60,2021
+Malta,2.50,2021
+Guinea,2.50,2021
+Gabon,2.40,2021
+Suriname,2.40,2021
+"Congo, Republic of the",2.20,2021
+Bahamas,2.00,2021
+Madagascar,2.00,2021
+Mauritania,1.90,2021
+Guam,1.70,2021
+Swaziland,1.50,2021
+Niger,1.30,2021
+Equatorial Guinea,1.30,2021
+Togo,1.20,2021
+Malawi,1.00,2021
+Barbados,1.00,2021
+Guyana,1.00,2021
+Fiji,1.00,2021
+Curacao,900.00,2008 est.
+Lesotho,900.00,2021
+Belize,900.00,2021
+Liberia,900.00,2021
+Netherlands Antilles,800.00,2021
+Aruba,800.00,2021
+Cayman Islands,700.00,2021
+Rwanda,700.00,2021
+French Polynesia,600.00,2021
+Jersey,600.00,2004 est.
+U.S. Virgin Islands,600.00,2021
+Seychelles,600.00,2021
+Greenland,600.00,2021
+Maldives,600.00,2021
+,,
+Benin,500.00,2021
+South Sudan,500.00,2021
+Bermuda,500.00,2021
+Andorra,500.00,2012 est.
+Djibouti,500.00,2021
+U.S. Pacific Islands,500.00,2021
+Burundi,400.00,2021
+Haiti,400.00,2021
+Somalia,400.00,2021
+Eritrea,400.00,2021
+Faroe Islands,400.00,2021
+Timor-Leste,400.00,2021
+Liechtenstein,394.00,2015 est.
+Saint Lucia,300.00,2021
+Antigua and Barbuda,300.00,2021
+Cabo Verde,300.00,2021
+Chad,300.00,2021
+Turks and Caicos Islands,300.00,2021
+Gambia,200.00,2021
+Northern Mariana Islands,200.00,2012 est.
+Saint Kitts and Nevis,200.00,2021
+Gibraltar,200.00,2021
+Grenada,200.00,2021
+Saint Vincent and the Grenadines,200.00,2021
+American Samoa,200.00,2021
+Dominica,200.00,2021
+"Micronesia, Federated States of",125.00,2002 est.
+Samoa,124.00,2018 est.
+Central African Republic,100.00,2021
+Sierra Leone,100.00,2021
+British Virgin Islands,100.00,2021
+Comoros,100.00,2021
